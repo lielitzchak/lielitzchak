@@ -13,7 +13,8 @@
 [![Discord](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liel-itzchak-b663b0211/)
 
 <hr>
-## Languages:
+
+##  Languages:
 
 ![Discord](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
