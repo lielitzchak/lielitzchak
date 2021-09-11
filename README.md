@@ -4,7 +4,7 @@
 <hr>
  My first projects:<br>
  
- [![Discord](https://img.shields.io/discord/416652224505184276?color=%235865F2&label=See%20My%20project)](https://lielitzchak.github.io/DJ-avi-chekol/)
+ [![Discord](https://img.icons8.com/ios-glyphs/50/000000/bookmark-ribbon.png)](https://lielitzchak.github.io/DJ-avi-chekol/)
  
 <hr>
 
