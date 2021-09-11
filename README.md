@@ -10,20 +10,16 @@
 
 ## conect me:
 
-[![Discord](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liel-itzchak-b663b0211/)
+[![Discord](https://cdn.iconscout.com/icon/free/png-64/linkedin-50-226552.png)](https://www.linkedin.com/in/liel-itzchak-b663b0211/)
 
 <hr>
 
 ##  Languages:
 
-![Discord](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-
-![Discord](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-![Discord](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
+![Discord](https://cdn.iconscout.com/icon/free/png-64/html-3521493-2944937.png)
+![Discord](https://cdn.iconscout.com/icon/free/png-64/css-2749248-2284638.png)
+![Discord](https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png)
 
 <hr>
 
