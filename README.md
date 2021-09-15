@@ -2,11 +2,6 @@
 - 🌱 I’m currently learning javaScript
 - 👯 I’m looking to collaborate on build project. <br>
 <hr>
- My first projects:<br>
- 
- [![Discord](https://img.icons8.com/ios-glyphs/50/000000/bookmark-ribbon.png)](https://lielitzchak.github.io/DJ-avi-chekol/)
- 
-<hr>
 
 ## conect me:
 
