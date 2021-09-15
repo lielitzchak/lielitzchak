@@ -3,12 +3,6 @@
 - 👯 I’m looking to collaborate on build project. <br>
 <hr>
 
-## conect me:
-
-[![Discord](https://cdn.iconscout.com/icon/free/png-64/linkedin-50-226552.png)](https://www.linkedin.com/in/liel-itzchak-b663b0211/)
-
-<hr>
-
 ##  Languages:
 
 
