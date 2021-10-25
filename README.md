@@ -7,6 +7,6 @@
     <img alt="JavaScript" width="26px" src="https://raw.github.com/LielAmar/Portfolio/master/public/svgs/javascript.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="VSCode"     width="26px" src="https://raw.github.com/LielAmar/Portfolio/master/public/svgs/vscode.svg" />&nbsp;&nbsp;&nbsp;
 <img alt="GIT"        width="26px" src="https://raw.github.com/LielAmar/Portfolio/master/public/svgs/git.svg" />&nbsp;&nbsp;&nbsp;
+
 ## 📬 Contact me
 <a href="https://www.linkedin.com/in/lielitzchak/">   <img alt="linkedin" width="26px" src="https://raw.github.com/LielAmar/Portfolio/master/public/svgs/linkedin_colored.svg"/></a>
-
