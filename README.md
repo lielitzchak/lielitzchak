@@ -1,5 +1,5 @@
 # Hello, I'm Liel Itzchak
-<br> I am a Software Developer.
+<br> I am a Full Stack Developer.
 ## 🔨 Languages and Tools
 <div align="left">
     <img alt="HTML5" width="26px" src="https://raw.github.com/LielAmar/Portfolio/master/public/svgs/html5.svg" />&nbsp;&nbsp;&nbsp;
