@@ -1,4 +1,4 @@
-# Hey, I'm Liel Itzchak
+# Hello, I'm Liel Itzchak
 <br> I am a Software Developer.
 ## 🔨 Languages and Tools
 <div align="left">
