@@ -10,7 +10,7 @@
  <img alt="VS" width="26px" src="https://did.li/fWD5q" />&nbsp;&nbsp;&nbsp;
  <img alt="VS" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&nbsp;&nbsp;
  <img alt="VS" width="26px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png" />&nbsp;&nbsp;&nbsp;
- <img alt="VS" width="26px" src="https://cdn-icons.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1641239225~hmac=d4e855715bd1cc6db0b4e400d898b5ff" />&nbsp;&nbsp;&nbsp;
+ <img alt="VS" width="26px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" />&nbsp;&nbsp;&nbsp;
  <img alt="VS" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />&nbsp;&nbsp;&nbsp;
  <img alt="VS" width="45px" src="https://www.scientiamobile.com/wp-content/uploads/2019/12/dotnet_logo.png" />&nbsp;&nbsp;&nbsp;
 
