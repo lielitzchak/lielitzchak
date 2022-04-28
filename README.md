@@ -15,8 +15,9 @@
  <img alt="VS" width="45px" src="https://www.scientiamobile.com/wp-content/uploads/2019/12/dotnet_logo.png" />&nbsp;&nbsp;&nbsp;
 
  <br>
+
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lielitzchak&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lielitzchak&theme=highcontrast&show_icons=true&count_private=true">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lielitzchak&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lielitzchak&theme=defult&show_icons=true&count_private=false">
 
 <br>
 
